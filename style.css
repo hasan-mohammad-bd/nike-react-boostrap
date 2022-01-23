@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap');
+
+body{
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Roboto', sans-serif !important;
+}
+
+/* custom color */
+
+/* text color */
+
+.orange-text {
+    color: #FA804C;
+}
+
+/* background color */
+
+.light-bg {
+    background-color: #FFF9F4;
+}
+
+.pen-btn {
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+}
+
+.showcase .container .text-area h1 {
+    font-family: 'Bebas Neue', cursive !important;
+    font-size: 80px !important;
+}
+
+.pen-ff {
+    font-family: 'Bebas Neue', cursive !important;
+}
+
+.bg-grey {
+    background-color: #F1F1F1;
+}
+
+.mt {
+    margin-top: 7rem;
+}
